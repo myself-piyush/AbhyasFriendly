@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742631426765",
+    "project_id": "abhyas-e98f3",
+    "storage_bucket": "abhyas-e98f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742631426765:android:1b184eac4f0fc9bebaf784",
+        "android_client_info": {
+          "package_name": "com.Piyush.AbhyasFriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742631426765-fph9gs59l6of607gpna2nheeqm7lvhba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUr6NYKoPz5RQ1sffVLVzsPMpONeklImQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742631426765-fph9gs59l6of607gpna2nheeqm7lvhba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
